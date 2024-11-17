@@ -59,10 +59,10 @@ Ninja Food is a responsive web application designed to simplify the food orderin
 
 ## **Screenshots**  
 _Add images showcasing key features of your project. Replace `path/to/image.jpg` with your image paths._  
-![Homepage](path/to/homepage-image.jpg)  
+![Ninja Food SignUp](images/Screenshot%20(631).png) 
 *Description of the image*  
 
-![Order Page](path/to/order-page-image.jpg)  
+![Ninja Food Login](images/Screenshot%20(632).png)
 *Description of the image*  
 
 ---
