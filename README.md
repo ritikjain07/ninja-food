@@ -13,10 +13,7 @@ Ninja Food is a responsive web application designed to simplify the food orderin
 ## **Features**  
 - **Responsive Design**: Enjoy a smooth browsing experience on any device.  
 - **Secure User Authentication**: Includes login and registration functionality to ensure user data security.  
-- **Order Placement and Tracking**: A hassle-free way to order food and track its status.  
-- **Dynamic Dashboard**: Manage orders and profiles with ease.  
-- **Stylish Gallery**: Browse through delicious dishes with high-quality images.  
-- **Contact Support**: Reach out for assistance using a dedicated contact form.  
+- **Stylish Gallery**: Browse through delicious dishes with high-quality images. 
 
 ---
 
@@ -51,10 +48,7 @@ Ninja Food is a responsive web application designed to simplify the food orderin
 
 ## **Usage**  
 - Register and log in to explore the application.  
-- Browse the food gallery and place an order.  
-- Use the dashboard to track orders and manage your profile.  
-- Access the contact page for support or inquiries.  
-
+- Browse the food gallery and place an order. 
 ---
 
 ## **Screenshots**  
