@@ -1,5 +1,3 @@
-# **Ninja Food**  
-
 # Ninja Food
 
 ![Ninja Food Banner](images/Screenshot%20(629).png)
